@@ -1,30 +1,48 @@
 <div align="center">
 
-# 🏕️ Adria Karavan Türkiye
+# ✨ Adria Karavan Türkiye
 
-**Karavan ürün tanıtım & satış mockup sitesi**
+**Ürün & Satış · Mockup**
 
-[![Live Demo](https://img.shields.io/badge/🌐_Canlı_Demo-Adria_Karavan-6c63ff?style=for-the-badge)](https://mae.com.tr/adria/adria-mockup.html)
+<img src="https://bugrayetis.github.io/yeni/assets/covers/adria-karavan-turkiye.jpg" width="100%" alt="Adria Karavan Türkiye ön izleme" />
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<br/><br/>
+
+<a href="https://bugrayetis.github.io/mevcut.html#proje-adria-karavan-turkiye"><img src="https://img.shields.io/badge/🔍_Açıklama,_Ön_İzleme_ve_İçerik_İçin-Portfolyoma_Göz_At_→-6c63ff?style=for-the-badge" alt="Portfolyoda incele" /></a>
 
 </div>
 
 ---
 
-## ✨ Proje Hakkında
+## 📌 Proje Hakkında
 
-Adria karavan markası için ürün tanıtım ve satış sayfası mockup'ı. Karavan modellerinin detaylı görselleri ve teknik özellikleriyle potansiyel alıcılara yönelik bir deneyim sunar.
+Slovenya merkezli Adria Mobil markasının Türkiye distribütörü için geliştirdiğim ürün tanıtım ve satış sitesi. Çekme karavan, motorkaravan ve campervan modelleri; konfigüratör, AR önizleme ve çekiş hesaplayıcısı içeriyor.
+
+| | |
+|---|---|
+| **Kategori** | Ürün & Satış |
+| **Geliştirici** | Buğra Yetiş · MAE Reklam Ajansı |
 
 ## 🛠️ Kullanılan Teknolojiler
 
-- **Responsive Layout** — Tüm cihazlarda uyumlu
-- **Product Showcase** — Ürün detay sayfaları
-- **Modern UI** — Temiz tasarım
+![HTML / CSS](https://img.shields.io/badge/HTML_%2F_CSS-1f2233?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-1f2233?style=flat-square)
+![AR Entegrasyon](https://img.shields.io/badge/AR_Entegrasyon-1f2233?style=flat-square)
+![Konfigüratör](https://img.shields.io/badge/Konfig%C3%BCrat%C3%B6r-1f2233?style=flat-square)
+![Responsive](https://img.shields.io/badge/Responsive-1f2233?style=flat-square)
 
-## 🔗 Bağlantılar
+## 🔒 Kaynak Kod
 
-- 🌐 **Canlı:** [Adria Karavan](https://mae.com.tr/adria/adria-mockup.html)
-- 👤 **Geliştirici:** [Buğra Yetiş](https://bugrayetis.github.io)
+Bu repo yalnızca projenin tanıtımını içerir. Müşteri gizliliği ve telif hakları nedeniyle kaynak kod paylaşılmıyor.
+Projeyi canlı görmek, ekran görüntülerine ve detaylarına bakmak için **[portfolyomdaki proje sayfasına](https://bugrayetis.github.io/mevcut.html#proje-adria-karavan-turkiye)** göz atın.
+
+---
+
+<div align="center">
+
+<a href="https://bugrayetis.github.io/mevcut.html#proje-adria-karavan-turkiye"><img src="https://img.shields.io/badge/🌐_Portfolyoda_İncele-bugrayetis.github.io-6c63ff?style=for-the-badge" /></a>
+<a href="https://github.com/BugraYetis"><img src="https://img.shields.io/badge/👤_Tüm_Projeler-BugraYetis-181717?style=for-the-badge&logo=github" /></a>
+
+<sub>Buğra Yetiş — Mid Web Developer & Grafik Tasarımcı · İstanbul</sub>
+
+</div>
